@@ -5,4 +5,4 @@ This is a pretty boring about me, but honestly, I'm just outta ideas.
 
 ---
 
-**Ever want to talk to me, or have me do a commision for a script?** DM my discord at **@lucklumen.** I may or may not respond :>
+**Ever want to talk to me, or have me do a commision for a script?** DM my discord at **@lucklumen.** I may or may not respond
