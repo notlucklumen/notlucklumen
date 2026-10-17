@@ -1,5 +1,7 @@
 # Hello! I am ***Lucky Lumen***
-I am a Roblox exploit developer by the name of Lumen (or Luck(y) lumen), I usually make stuff that comes to mind, mostly Luau scripts as I'm most familiar with them. My pronouns are she/her
+I am a Roblox developer by the name of Lumen (or Luck(y) lumen), I usually make stuff that comes to mind, mostly Luau scripts as I'm most familiar with them. My pronouns are she/her
+
+Oh, and I don't only do Luau, I'm also starting to learn other languages like HTML, Haxe
 
 This is a pretty boring about me, but honestly, I'm just outta ideas.
 
